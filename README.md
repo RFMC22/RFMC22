@@ -7,19 +7,19 @@
 
 ### :books: Actualmente estoy aprendiendo
 
-<code><img src="icons/technologies/react-30.png" width="26px" alt="react"></code>
+<code><a href="https://es.reactjs.org/" target="_blank"><img src="icons/technologies/react-30.png" width="26px" alt="react"></a></code>
 
 ### Tecnologias que conozco
 
-<code><img src="icons/technologies/vsc-96.png" width="26px" alt="visual studio code"></code>
-<code><img src="icons/technologies/html.png" width="26px" alt="html5"></code>
-<code><img src="icons/technologies/css.png" width="26px" alt="css"></code>
-<code><img src="icons/technologies/javascript.png" width="26px" alt="javascript"></code>
-<code><img src="icons/technologies/typescript.png" width="26px" alt="typescript"></code>
-<code><img src="icons/technologies/sass.png" width="26px" alt="sass"></code>
-<code><img src="icons/technologies/git.png" width="26px" alt="git"></code>
-<code><img src="icons/technologies/mysql-96.png" width="35px" alt="mysql"></code>
-<code><img src="icons/technologies/java-96.png" width="30px" alt="java"></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img src="icons/technologies/vsc-96.png" width="26px" alt="visual studio code"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="icons/technologies/html.png" width="26px" alt="html5"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="icons/technologies/css.png" width="26px" alt="css"></a></code>
+<code><a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="icons/technologies/javascript.png" width="26px" alt="javascript"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img src="icons/technologies/typescript.png" width="26px" alt="typescript"></a></code>
+<code><a href="https://sass-lang.com/" target="_blank"><img src="icons/technologies/sass.png" width="26px" alt="sass"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img src="icons/technologies/git.png" width="26px" alt="git"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img src="icons/technologies/mysql-96.png" width="35px" alt="mysql"></a></code>
+<code><a href="https://www.java.com/en/" target="_blank"><img src="icons/technologies/java-96.png" width="30px" alt="java"></a></code>
 <code><img src="icons/technologies/console-96.png" width="30px" alt="console"></code>
 
 <details>
