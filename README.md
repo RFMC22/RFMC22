@@ -11,22 +11,13 @@
 ### Tecnologias que conozco
 
 <code><img src="icons/technologies/vsc-96.png" width="26px" alt="visual studio code"></code>
-
 <code><img src="icons/technologies/html.png" width="26px" alt="html5"></code>
-
 <code><img src="icons/technologies/css.png" width="26px" alt="css"></code>
-
-
 <code><img src="icons/technologies/javascript.png" width="26px" alt="javascript"></code>
-
 <code><img src="icons/technologies/typescript.png" width="26px" alt="typescript"></code>
-
 <code><img src="icons/technologies/sass.png" width="26px" alt="sass"></code>
-
 <code><img src="icons/technologies/git.png" width="26px" alt="git"></code>
-
 <code><img src="icons/technologies/mysql-96.png" width="35px" alt="mysql"></code>
-
 <code><img src="icons/technologies/java-96.png" width="30px" alt="mysql"></code>
 
 
