@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<center><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfmc22&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353" />
-</a></center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rfmc22&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353&hide_border=true" />
+</a>
 </details>
