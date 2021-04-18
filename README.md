@@ -5,9 +5,13 @@
 [![Linkedin URL](https://img.shields.io/badge/-Renee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reneefelipemagallanescanedo/)
 [![Gmail URL](https://img.shields.io/badge/-rene22797-red?style=flat&labelColor=red&logo=linkedin&logoColor=white)](mailto:rene22797@gmail.com)
 
+<br />
+
 ### :books: Actualmente estoy aprendiendo
 
 <code><img src="icons/technologies/react-30.png" width="26px" alt="react"></code>
+
+<br />
 
 ### Tecnologias que conozco
 
@@ -22,10 +26,12 @@
 <code><img src="icons/technologies/java-96.png" width="30px" alt="java"></code>
 <code><img src="icons/technologies/console-96.png" width="30px" alt="console"></code>
 
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rfmc22&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353" />
-</a>
+<center><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rfmc22&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353" />
+</a></center>
 </details>
