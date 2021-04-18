@@ -6,25 +6,27 @@
 
 ### :books: Actualmente estoy aprendiendo
 
-<img src="icons/technologies/react-30.png" width="26px" alt="react">
+<code><img src="icons/technologies/react-30.png" width="26px" alt="react"></code>
 
 ### Tecnologias que conozco
 
-<img align="left" src="icons/technologies/vsc-96.png" width="26px" alt="visual studio code">
+<code><img src="icons/technologies/vsc-96.png" width="26px" alt="visual studio code"></code>
 
-<img align="left" src="icons/technologies/html.png" width="26px" alt="html5">
+<code><img src="icons/technologies/html.png" width="26px" alt="html5"></code>
 
-<img align="left" src="icons/technologies/css.png" width="26px" alt="css">
+<code><img src="icons/technologies/css.png" width="26px" alt="css"></code>
 
 
-<img align="left" src="icons/technologies/javascript.png" width="26px" alt="javascript">
+<code><img src="icons/technologies/javascript.png" width="26px" alt="javascript"></code>
 
-<img align="left" src="icons/technologies/typescript.png" width="26px" alt="typescript">
+<code><img src="icons/technologies/typescript.png" width="26px" alt="typescript"></code>
 
-<img align="left" src="icons/technologies/sass.png" width="26px" alt="sass">
+<code><img src="icons/technologies/sass.png" width="26px" alt="sass"></code>
 
-<img align="left" src="icons/technologies/git.png" width="26px" alt="git">
+<code><img src="icons/technologies/git.png" width="26px" alt="git"></code>
 
-<img align="left" src="icons/technologies/mysql-96.png" width="35px" alt="mysql">
+<code><img src="icons/technologies/mysql-96.png" width="35px" alt="mysql"></code>
+
+<code><img src="icons/technologies/java-96.png" width="30px" alt="mysql"></code>
 
 
