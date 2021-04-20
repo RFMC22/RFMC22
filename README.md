@@ -3,7 +3,7 @@
 :mailbox: ¡Contáctame!:
 
 [![Linkedin URL](https://img.shields.io/badge/-Renee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reneefelipemagallanescanedo/)
-[![Gmail URL](https://img.shields.io/badge/-rene22797-red?style=flat&labelColor=red&logo=linkedin&logoColor=white)](mailto:rene22797@gmail.com)
+[![Gmail URL](https://img.shields.io/badge/-rene22797-red?style=flat&labelColor=red&logo=gmail&logoColor=white)](mailto:rene22797@gmail.com)
 
 ### :books: Actualmente estoy aprendiendo
 
