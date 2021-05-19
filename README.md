@@ -1,6 +1,6 @@
 ## Hola soy Renee Magallanes - RFMC22 <img src="icons/gif/goku.gif" width="55px" alt="Goku"/>
 
-:mailbox: ¡Contáctame!:
+:mailbox: ¡Contáctame!: 
 
 [![Linkedin URL](https://img.shields.io/badge/-Renee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reneefelipemagallanescanedo/)
 [![Gmail URL](https://img.shields.io/badge/-rene22797-red?style=flat&labelColor=red&logo=gmail&logoColor=white)](mailto:rene22797@gmail.com)
