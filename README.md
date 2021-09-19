@@ -7,7 +7,7 @@
 
 ### :books: Actualmente estoy aprendiendo
 
-<code><a href="https://es.reactjs.org/" target="_blank"><img src="icons/technologies/angular.png" width="26px" alt="react"></a></code>
+<code><a href="https://angular.io/" target="_blank"><img src="icons/technologies/angular.png" width="26px" alt="react"></a></code>
 <code><a href="https://www.python.org" target="_blank"><img src="https://res.cloudinary.com/apijavascript/image/upload/v1620857827/qhvnlnpxvifkj42gv3ty.png" width="26px" alt="react"></a></code>
 
 ### Tecnologias que conozco
