@@ -7,7 +7,7 @@
 
 ### :books: Actualmente estoy aprendiendo
 
-<code><a href="https://es.reactjs.org/" target="_blank"><img src="icons/technologies/react-30.png" width="26px" alt="react"></a></code>
+<code><a href="https://es.reactjs.org/" target="_blank"><img src="icons/technologies/angular.png" width="26px" alt="react"></a></code>
 <code><a href="https://www.python.org" target="_blank"><img src="https://res.cloudinary.com/apijavascript/image/upload/v1620857827/qhvnlnpxvifkj42gv3ty.png" width="26px" alt="react"></a></code>
 
 ### Tecnologias que conozco
@@ -25,8 +25,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=rfmc22&show_icons=true&locale=es&bg_color=0d1117&title_color=1f6feb&text_color=1f6feb&icon_color=39d353&hide_border=true" />
 </a>
+</p>
 </details>
