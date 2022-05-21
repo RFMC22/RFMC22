@@ -1,7 +1,5 @@
 ## Hola soy Renee Magallanes - RFMC22
 
-<img align="right" src="https://user-images.githubusercontent.com/60860968/169666381-be71150b-418e-49d5-91ef-f1f2d2fc421f.gif" width="200px" alt="Goku"/>
-
 :mailbox: ¡Contáctame!: 
 
 [![Linkedin URL](https://img.shields.io/badge/-Renee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reneefelipemagallanescanedo/)
@@ -39,3 +37,7 @@
 </a>
 </p>
 </details>
+
+<p align="right">
+<img src="https://user-images.githubusercontent.com/60860968/169666381-be71150b-418e-49d5-91ef-f1f2d2fc421f.gif" width="200px" alt="Goku"/>
+</p>
