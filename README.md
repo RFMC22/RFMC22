@@ -8,17 +8,10 @@
 ### :books: Actualmente estoy aprendiendo
 | Por hacer      | En progreso |  |
 | :----: | :----: | :----: |
-| <li>- [x] item1</li> | <li>- [x] </li>|<code><a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665104-f62ec444-b9d8-4d62-8da0-113451b83f33.png" width="26px" alt="Angular"></a></code>|
+|<li>- [x] </li> | |<code><a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665104-f62ec444-b9d8-4d62-8da0-113451b83f33.png" width="26px" alt="Angular"></a></code>|
+| |<li>- [x] </li> |<code><a href="https://react.dev/" target="_blank"><img src="https://github.com/RFMC22/RFMC22/assets/60860968/96e043af-2be2-4a20-becd-48f57ec1259f" width="26px" alt="Angular"></a></code>|
 
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-[x] Write the press release
-
-[ ] Update the website
-## Tecnologias que conozco
+## Tecnologías que conozco
 | IDE's      | Metalenguajes |Versionamiento|Lenguajes|BD|Librerias y Frameworks| Gestion de paquetes |
 | :----: | :----: | :----: |:----:|:----:|:----:|:----:|
 | <code><a href="https://code.visualstudio.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665427-6a7af9dc-f54b-4c97-b9fc-1d582a429f6b.png" width="26px" alt="visual studio code"></a></code>      | <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665432-b9916915-f6dc-4a64-9225-a13a5be2cb1f.png" width="26px" alt="html5"></a></code>       |<code><a href="https://about.gitlab.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665686-0c526273-1378-4fc5-b45a-40f3abc8870f.png" width="26px" alt="gitlab"></a></code>|<code><a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665422-6b65d6cf-43c2-43d3-affb-1e7dc7df1206.png" width="26px" alt="javascript"></a></code>|<code><a href="https://www.mysql.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665424-c9100001-1071-4b11-b636-847aaf8d5363.png" width="35px" alt="mysql"></a></code>|<code><a href="https://jquery.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665908-efff6052-4dd8-42e5-aeb5-c668e81782ee.png" width="26px" alt="jquery"></a></code>|<code><a href="https://www.npmjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169666113-4546a056-9497-4b34-abaf-90f0659d8a06.png" width="30px" alt="npm"></a></code>|
