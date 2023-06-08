@@ -8,7 +8,7 @@
 ### :books: Actualmente estoy aprendiendo
 | Por hacer      | En progreso |  |
 | :----: | :----: | :----: |
-| - [x] | - [x] ds|<code><a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665104-f62ec444-b9d8-4d62-8da0-113451b83f33.png" width="26px" alt="Angular"></a></code>|
+| <li>- [x] item1</li> | <li>- [x] </li>|<code><a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665104-f62ec444-b9d8-4d62-8da0-113451b83f33.png" width="26px" alt="Angular"></a></code>|
 
 
 - [x] Write the press release
