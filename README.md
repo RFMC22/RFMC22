@@ -9,7 +9,8 @@
 | Por hacer      | En progreso |  |
 | :----: | :----: | :----: |
 |<li>- [x] </li> | |<code><a href="https://angular.io/" target="_blank"><img src="https://user-images.githubusercontent.com/60860968/169665104-f62ec444-b9d8-4d62-8da0-113451b83f33.png" width="26px" alt="Angular"></a></code>|
-| |<li>- [x] </li> |<code><a href="https://react.dev/" target="_blank"><img src="https://github.com/RFMC22/RFMC22/assets/60860968/96e043af-2be2-4a20-becd-48f57ec1259f" width="26px" alt="Angular"></a></code>|
+| |<li>- [x] </li> |<code><a href="https://react.dev/" target="_blank"><img src="https://github.com/RFMC22/RFMC22/assets/60860968/96e043af-2be2-4a20-becd-48f57ec1259f" width="26px" alt="React"></a></code>|
+| |<li>- [x] </li> |<code><a href="https://nextjs.org/" target="_blank"><img src="https://github.com/RFMC22/RFMC22/assets/60860968/f7f5bce3-c302-4323-8677-263a312f5a99" width="26px" alt="Next.js"></a></code>|
 
 ## Tecnologías que conozco 
 | IDE's      | Metalenguajes |Versionamiento|Lenguajes|BD|Librerias y Frameworks| Gestion de paquetes |
